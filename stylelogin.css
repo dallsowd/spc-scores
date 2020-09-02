@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: url(logo2.webp) no-repeat;
+    background-color: darkgray;
     background-size: cover;
 }
 .login-box{
