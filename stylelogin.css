@@ -29,3 +29,19 @@ body{
     margin: 8px 0;
     border-bottom: 1px solid red;
 }
+.textbox i{
+    width: 26px;
+    float: left;
+    text-align: center;
+}
+.textbox input{
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+.btn{}
